@@ -1,0 +1,4 @@
+Flask
+sqlalchemy
+marshmallow-sqlalchemy
+requests
